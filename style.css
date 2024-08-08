@@ -1,0 +1,19 @@
+body {
+  background: #f1f5f9;
+}
+
+.container {
+  background-color: #fff;
+}
+
+.container h3 {
+  color: darkblue;
+}
+
+p {
+  color: gray;
+}
+
+.special {
+  background-color: rgba(0, 0, 0, 0.9);
+}
